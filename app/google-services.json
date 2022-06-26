@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280340183846",
+    "project_id": "smarti-a8eb7",
+    "storage_bucket": "smarti-a8eb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280340183846:android:ceb46bb57f344b7475dfe7",
+        "android_client_info": {
+          "package_name": "com.herokuapp.tanmaypatel.smarti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280340183846-62un2rqphgip0a2lokjhn3antt2esagr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Z0cbgfNu2x9Q5ygt3kGTPyZ91V8rhWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280340183846-62un2rqphgip0a2lokjhn3antt2esagr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
